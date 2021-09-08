@@ -4,3 +4,5 @@ Her kan noteres gode ideer til projektet.
 
 2021_09_08:
 Gør spillet visuel mere spændende. Sæt ord op på en baggrund. Brug noget andet end katten til at præsentere.
+Lav et high score system.
+Gør hele baduljen til en slags escape room.
